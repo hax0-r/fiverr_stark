@@ -47,3 +47,18 @@ input:user-invalid {
     background: linear-gradient(rgba(0, 0, 0, 0.171),rgba(0, 0, 0, 0.226)),url(/docs/assets/images/mission.jpg) no-repeat center center/cover;
     height: 100vh;
 }
+
+.Production{
+    background: linear-gradient(rgba(0, 0, 0, 0.171),rgba(0, 0, 0, 0.226)),url(/docs/assets/images/Production.jpg) no-repeat center center/cover;
+    height: 100vh;
+}
+
+.research{
+    background: linear-gradient(rgba(0, 0, 0, 0.171),rgba(0, 0, 0, 0.226)),url(/docs/assets/images/research.jpg) no-repeat center center/cover;
+    height: 100vh;
+}
+
+.partners{
+    background: linear-gradient(rgba(0, 0, 0, 0.171),rgba(0, 0, 0, 0.226)),url(/docs/assets/images/partners.jpg) no-repeat center center/cover;
+    height: 100vh;
+}

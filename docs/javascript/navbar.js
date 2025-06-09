@@ -12,19 +12,19 @@ navbar.innerHTML = `
                     <ul class="md:flex hidden items-center text-zinc-800 font-medium uppercase gap-10">
                         <li><a href="/index.html" class="hover:text-opacity-80 transition-all duration-500">Home </a>
                         </li>
-                        <li><a href="#" class="hover:text-opacity-80 transition-all duration-500">Mission</a>
+                        <li><a href="/mission.html" class="hover:text-opacity-80 transition-all duration-500">Mission</a>
                         </li>
-                        <li><a href="#" class="hover:text-opacity-80 transition-all duration-500">Research</a>
+                        <li><a href="/research.html" class="hover:text-opacity-80 transition-all duration-500">Research</a>
                         </li>
-                        <li><a href="#" class="hover:text-opacity-80 transition-all duration-500">Products</a>
+                        <li><a href="/production.html" class="hover:text-opacity-80 transition-all duration-500">Products</a>
                         </li>
-                        <li><a href="#" class="hover:text-opacity-80 transition-all duration-500">Partners</a>
+                        <li><a href="/partners.html" class="hover:text-opacity-80 transition-all duration-500">Partners</a>
                         </li>
                     </ul>
                 </div>
             </div>
             <div class="md:flex items-center justify-center gap-4 hidden">
-                <a href="#"
+                <a href="/careers.html"
                     class="md:block hidden transition-all duration-500 hover:opacity-80 px-6 py-1.5 uppercase rounded-lg text-white bg-black">Career</a>
                 <div class="w-0.5 bg-zinc-500 rounded-full h-6"></div>
                 <div class="flex items-center justify-center gap-2 relative">
@@ -55,13 +55,13 @@ navbar.innerHTML = `
             <ul class="flex relative z-50 text-zinc-800 font-medium uppercase flex-col gap-7">
                 <li><a href="/index.html" class="hover:text-opacity-80 transition-all duration-500">Home </a>
                 </li>
-                <li><a href="#" class="hover:text-opacity-80 transition-all duration-500">Mission</a>
+                <li><a href="/mission.html" class="hover:text-opacity-80 transition-all duration-500">Mission</a>
                 </li>
-                <li><a href="#" class="hover:text-opacity-80 transition-all duration-500">Research</a>
+                <li><a href="/research.html" class="hover:text-opacity-80 transition-all duration-500">Research</a>
                 </li>
-                <li><a href="#" class="hover:text-opacity-80 transition-all duration-500">Products</a>
+                <li><a href="/production.html" class="hover:text-opacity-80 transition-all duration-500">Products</a>
                 </li>
-                <li><a href="#" class="hover:text-opacity-80 transition-all duration-500">Partners</a>
+                <li><a href="/partners.html" class="hover:text-opacity-80 transition-all duration-500">Partners</a>
                 </li>
             </ul>
             <ul
@@ -74,9 +74,8 @@ navbar.innerHTML = `
                         class="hover:text-opacity-80 overflow-hidden transition-all duration-500 border rounded-lg w-full block py-1">DE</a>
                 </li>
             </ul>
-            <a href="#"
-                class=" block text-nowrap transition-all duration-500 hover:opacity-80 px-6 py-3 uppercase rounded-lg text-white bg-black text-center mt-3">Contact
-                Us</a>
+            <a href="/careers.html"
+                class=" block text-nowrap transition-all duration-500 hover:opacity-80 px-6 py-3 uppercase rounded-lg text-white bg-black text-center mt-3">Career</a>
         </div>
     </div>
 `
