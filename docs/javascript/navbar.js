@@ -67,15 +67,15 @@ navbar.innerHTML = `
             <ul
                 class="grid grid-cols-2 relative z-50 text-zinc-800 font-medium uppercase w-full text-center mt-5 gap-3">
                 <li><a href="#"
-                        class="hover:text-opacity-80 transition-all duration-500 border rounded-lg w-full block py-1">EN
+                        class="hover:text-opacity-80 overflow-hidden transition-all duration-500 border rounded-lg w-full block py-1">EN
                     </a>
                 </li>
                 <li><a href="#"
-                        class="hover:text-opacity-80 transition-all duration-500 border rounded-lg w-full block py-1">DE</a>
+                        class="hover:text-opacity-80 overflow-hidden transition-all duration-500 border rounded-lg w-full block py-1">DE</a>
                 </li>
             </ul>
             <a href="#"
-                class=" block transition-all duration-500 hover:opacity-80 px-6 py-3 uppercase rounded-lg text-white bg-black text-center mt-3">Contact
+                class=" block text-nowrap transition-all duration-500 hover:opacity-80 px-6 py-3 uppercase rounded-lg text-white bg-black text-center mt-3">Contact
                 Us</a>
         </div>
     </div>
