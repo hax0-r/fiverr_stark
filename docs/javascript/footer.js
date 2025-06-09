@@ -22,6 +22,7 @@ footer.innerHTML = `
             <div class="flex items-center gap-5">
                 <a href="#" class="hover:underline text-zinc-200 block ">Privacy Policy</a>
                 <a href="#" class="hover:underline text-zinc-200 block ">Imprint</a>
+                <a href="#" class="hover:underline text-zinc-200 block ">Careers</a>
                 <a href="#" class="hover:underline text-zinc-200 block ">
                     <i class="fa-brands fa-linkedin text-2xl"></i>
                 </a>
